@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <CheckBox
+        android:id="@+id/cbArroz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arroz 1 Kg (R$ 2,69)" />
+
+    <CheckBox
+        android:id="@+id/cbLeite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Leite longa vida (R$ 2,70)" />
+
+    <CheckBox
+        android:id="@+id/cbCarne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Carne Friboi (R$ 16,70)" />
+
+    <CheckBox
+        android:id="@+id/cbFeijao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Feijão carioquinha 1 Kg (R$ 3,38)" />
+
+    <CheckBox
+        android:id="@+id/cbRefrigerante"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Refrigerante Coca-Cola 2L (R$ 3,00)" />
+
+    <Button
+        android:id="@+id/btnCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calcular Total" />
+
+    <TextView
+        android:id="@+id/txtResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total: R$ 0,00"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
