@@ -1,39 +1,38 @@
-# EntregaN1
+# 📱 Entrega N1
 
-# 📱 Calculadora de IMC
+Projeto desenvolvido para a disciplina de **Programação Mobile** do curso de **Análise e Desenvolvimento de Sistemas** - 3º Semestre.
 
-Este projeto é um aplicativo Android desenvolvido em Java, com o objetivo de calcular o IMC (Índice de Massa Corporal) do usuário e exibir um feedback visual e textual com base na sua classificação. O app conta com múltiplas telas (Activities), cada uma representando uma categoria de IMC diferente.
+## 👤 Informações do Aluno
 
----
+- **Nome:** Deborah Pavanelli Colicchio
+- **RA:** 24025857
+- **Professor:** Vinicius Heltai  
+- **Semestre:** 3º  
+- **Disciplina:** Programação Mobile
+- 
+- **Instituição:** FECAPVocê pode utilizar **qualquer uma das opções abaixo** para abrir e testar o projeto:
 
-## 👤 Informações da Aluna
+### ✅ Opção 1: Usando o repositório GitHub
 
-**Nome:** Deborah Pavanelli Colicchio
-**Curso:** Análise e Desenvolvimento de Sistemas — FECAP - 3 Semestre 
-**Disciplina:** Programação Mobile
-**Professor:** Vinicius Heltai 
+1. Clone este repositório:  
+   `git clone(https://github.com/eudehh/EntregaN1.git)`
 
----
+2. Abra o projeto no Android Studio;
 
-## ⚙️ Tecnologias Utilizadas
+3. Conecte um dispositivo ou inicie um emulador;
 
-- Java
-- Android Studio
-- XML (layouts)
-- ConstraintLayout
-- Intents (para comunicação entre telas)
+4. Compile e execute o projeto.
 
----
+### ✅ Opção 2: Usando o projeto compactado
 
-## 📊 Categorias de IMC
+1. Baixe e extraia o arquivo `.zip` disponível no repositório:  
+ https://github.com/eudehh/EntregaN1.git
 
-- Abaixo do peso
-- Peso normal
-- Sobrepeso
-- Obesidade grau 1
-- Obesidade grau 2
-- Obesidade grau 3
+2. Abra a pasta extraída no Android Studio;
 
-Cada categoria possui uma tela com mensagem específica e imagem representativa.
+3. Execute o projeto normalmente.
 
 ---
+
+📲 **Instalação direta do app:**  
+Tanto na pasta do projeto quanto no `.zip` extraído, você encontrará o arquivo **`questao1.apk`**, que pode ser instalado diretamente em um dispositivo Android.
